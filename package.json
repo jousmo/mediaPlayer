@@ -1,0 +1,21 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "Example: Create Media Player With Plugins",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "linter": "standard --verbose",
+    "linter:fix": "standard --fix --verbose"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "José Uscanga <jousmo@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "standard": "^14.3.4"
+  },
+  "dependencies": {}
+}
